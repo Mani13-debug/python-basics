@@ -1,0 +1,6 @@
+Jim - Salesman
+Kelly - Manager
+Tim - Salesman
+Tom - Desk Manager
+Jerry - Clerk
+Garry - Director

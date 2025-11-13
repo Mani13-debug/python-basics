@@ -1,0 +1,53 @@
+Arithmetic Operators: Used for mathematical calculations.
+
++ (Addition)
+- (Subtraction)
+* (Multiplication)
+/ (Division)
+% (Modulus)
+** (Exponentiation)
+// (Floor Division)
+
+
+Comparison Operators: Used to compare two values and return a Boolean result (True or False).
+
+== (Equal to)
+!= (Not equal to)
+> (Greater than)
+< (Less than)
+>= (Greater than or equal to)
+<= (Less than or equal to)
+
+
+
+Assignment Operators: Used to assign values to variables. They often combine an arithmetic operation with an assignment.
+
+= (Assignment)
+ +=, -=, *=, /=, %=, **=, //= (Compound assignments)
+
+
+
+ Logical Operators: Used to combine conditional statements.
+
+and (Logical AND)
+or (Logical OR)
+not (Logical NOT)
+
+
+Identity Operators: Used to compare the memory locations of two objects.
+
+is (Returns True if both variables point to the same object)
+is not (Returns True if both variables do not point to the same object)
+Membership Operators: Used to test if a value or variable is found in a sequence (e.g., string, list, tuple).
+in (Returns True if a sequence contains the specified value)
+not in (Returns True if a sequence does not contain the specified value)
+
+
+Bitwise Operators: Used to perform operations on individual bits of integers.
+
+& (Bitwise AND)
+| (Bitwise OR)
+^ (Bitwise XOR)
+~ (Bitwise NOT)
+<< (Left shift)
+>> (Right shift) 
